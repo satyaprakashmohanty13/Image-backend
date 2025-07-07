@@ -1,0 +1,6 @@
+Flask==2.3.2
+Flask-Cors==4.0.0
+opencv-python==4.9.0.80
+cryptography==42.0.5
+numpy==1.26.4
+gunicorn==22.0.0 # For production deployment
